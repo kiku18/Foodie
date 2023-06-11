@@ -1,6 +1,10 @@
 # Foodie
 
-# Foodie figma link
+## Stact used
+![image](https://github.com/kiku18/Foodie/assets/100954256/92e4a0ff-eac8-4d61-b9ac-a467642b1296)
+
+
+## Foodie figma link
 (https://www.figma.com/file/oSk3FEZ7qJOTtRjKUJgYDW/Restaurant-Landing-Page-Project-For-Youtube?type=design&node-id=1%3A2&t=nXCo52TAbgK8GsjQ-1)
 
 # Getting Started with Create React App
